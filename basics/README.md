@@ -1,8 +1,5 @@
-# Shell Basics Scripts
-
-## Scripts
 - 0-current_working_directory: Prints the absolute path of the current working directory
-- 1-listit: Displays the contents list of the current directoryi
+- 1-listit: Displays the contents list of the current directory
 - 2-bring_me_home: Changes the working directory to the user's home directory
 - 3-listfiles: Displays current directory contents in long format
 - 4-listmorefiles: Displays current directory contents including hidden files in long format
@@ -14,5 +11,6 @@
 - 10-back: Changes the working directory to the previous one
 - 11-lists: Lists all files in current directory, parent directory, and /boot in long format
 - 12-file_type: Prints the type of the file named iamafile in /tmp
-- 13-symbolic_link: Creates a symbolic link to /bin/ls named __ls_
+- 13-symbolic_link: Creates a symbolic link to /bin/ls named __ls__
 - 14-copy_html: Copies all HTML files from current directory to parent directory (only if newer or don't exist)
+- 15-lets_move: Moves all files beginning with an uppercase letter to /tmp/u
