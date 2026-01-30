@@ -11,3 +11,4 @@
 ```
 - 10-mirror_permissions: Sets the mode of file hello to be the same as olleh's mode
 - 10-mirror_permissions: Sets the mode of file hello to be the same as olleh's mode
+- 11-directories_permissions: Adds execute permission to all subdirectories for owner, group, and others (not regular files)
