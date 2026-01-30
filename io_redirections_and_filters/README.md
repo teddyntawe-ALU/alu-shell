@@ -10,4 +10,6 @@
 ```
 - 6-third_line: Displays the third line of the file iactaidd:
 ```
-- 6-third_line: Displays the third line of the file iacta
+- 6-third_line: Displays the third line of the file iactadd:
+```
+- 7-file: Creates a file with a complex name containing the text "Best School"
