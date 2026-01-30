@@ -13,3 +13,4 @@
 - 6-third_line: Displays the third line of the file iactadd:
 ```
 - 7-file: Creates a file with a complex name containing the text "Best School"
+- 8-cwd_state: Writes the result of ls -la into the file ls_cwd_content
