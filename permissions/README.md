@@ -7,4 +7,7 @@
 - 6-multiple_permissions: Adds execute permission to owner and group, and read permission to others for file hello
 - 7-everybody: Adds execution permission to owner, group owner, and other users for file hello
 - 8-James_Bond: Sets permission 007 to file hello (no permission for owner and group, all permissions for others)
-- 9-John_Doe: Sets the mode of file hello to -rwxr-x-wx (753)
+- 9-John_Doe: Sets the mode of file hello to -rwxr-x-wx (753)dd this line:
+```
+- 10-mirror_permissions: Sets the mode of file hello to be the same as olleh's mode
+- 10-mirror_permissions: Sets the mode of file hello to be the same as olleh's mode
