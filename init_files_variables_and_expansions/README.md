@@ -11,3 +11,4 @@
 - 7-create_global_variable: Creates a new global variable BEST with value School
 - 8-true_knowledge: Prints the result of adding 128 to the value in TRUEKNOWLEDGE
 - 9-divide_and_rule: Prints the result of POWER divided by DIVIDE
+- 10-love_exponent_breath: Displays the result of BREATH to the power LOVE
