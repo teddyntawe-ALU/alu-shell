@@ -12,3 +12,4 @@
 - 8-true_knowledge: Prints the result of adding 128 to the value in TRUEKNOWLEDGE
 - 9-divide_and_rule: Prints the result of POWER divided by DIVIDE
 - 10-love_exponent_breath: Displays the result of BREATH to the power LOVE
+- 11-binary_to_decimal: Converts a number from base 2 to base 10
